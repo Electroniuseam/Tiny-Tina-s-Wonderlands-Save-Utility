@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Tiny-Tina-s-Wonderlands-Save-Utility` · Updated: 2026-10-07
+`Tiny-Tina-s-Wonderlands-Save-Utility` · Updated: 2026-10-24
 
 **Tags:** `tiny-tinas-wonderlands` `savegame` `looter-shooter` `rpg`
